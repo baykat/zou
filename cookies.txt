@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.constantcontact.com	TRUE	/	FALSE	1999999999	__cf_bm	tOeaUNPYq4lwQ6VnCHQSDpab7gE7mX4vFA8YLpWxL6o-1743654197-1.0.1.1-aJsEZETmnEMcwxfPJ8hzq8rnK0Uw5t.BLmkj5fPt3znG7xwZmSCV07h_HD02Kuf0eLnMMNKJwoCGLlFz45R0nJT5FTMzsAHgHeL2QML8ozc
+.constantcontact.com	TRUE	/	FALSE	1999999999	_cfuvid	TAWspvm_0s4UlkWe1VV.je_W_f6tkamjAxDydG9Pces-1743654197587-0.0.1.1-604800000
+imgssl.constantcontact.com	TRUE	/	FALSE	1999999999	SameSite	None
+
